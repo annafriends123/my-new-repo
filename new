@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 provider "aws" {
   region  = "ap-south-1"
 }
@@ -150,3 +151,7 @@ module "ec2_instance" {
     Environment = "dev"
   }
 code for vpc.
+=======
+praveen is very man
+praveen is very bad guy
+>>>>>>> e81d3b63493a3977d44372df04df1e5f06af91d0
